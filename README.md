@@ -69,6 +69,7 @@ cm_display.plot()
 ## Output:
 ![out 1 ml1](https://github.com/Sakthimurugavel/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707246/2d613ac9-eff1-4e44-bed6-f479c89a31a5)
 
+
 ![out 2 ml 2](https://github.com/Sakthimurugavel/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118707246/59e5861b-e72d-4527-9356-307ff3f50ebd)
 
 
